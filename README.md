@@ -1,9 +1,9 @@
 <h1 align="center">Heyyy 👋, I'm Avadhut Patil</h1>
-<h3 align="center">A passionate about programming  and travelling.</h3>
+<h3 align="center">A passionate about programming.</h3>
 
-- 🔭 I’m currently working on **Nothing**
+- 🔭 I’m currently working on **Java Full-Stack Development**
 
-- 💬 Ask me about **Don't ask me anything**
+- 💬 Ask me about **Java , SpringBoot , Angular Framework**
 
 
 <h3 align="left">Connect with me:</h3>
