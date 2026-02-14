@@ -1,21 +1,84 @@
-<h1 align="center">Heyyy 👋, I'm Avadhut Patil</h1>
-<h3 align="center">A passionate about programming.</h3>
+<h1 align="center">Hi 👋, I'm Avadhut Patil</h1>
+<h3 align="center">Full Stack Developer | Java | .NET | Angular</h3>
 
-- 🔭 I’m currently working on **Java Full-Stack Development**
+---
 
-- 💬 Ask me about **Java , SpringBoot , Angular Framework**
+## 🚀 About Me
 
+- 🎓 B.Tech Graduate passionate about software development  
+- 💻 Skilled in **Java Full Stack Development & .NET Core**
+- 🔥 Currently building real-world projects using **Spring Boot, Angular & .NET Core**
+- 🌱 Continuously learning and improving problem-solving skills
+- 🎯 Goal: To become a highly skilled Full Stack Developer
 
-<h3 align="left">Connect with me:</h3>
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Backend
+- Java  
+- Spring Boot  
+- .NET Core 8  
+- RESTful APIs  
+- Hibernate  
+- Stored Procedures  
+
+### 🎨 Frontend
+- Angular  
+- TypeScript  
+- HTML5  
+- CSS3  
+- Tailwind CSS  
+- Angular Material  
+
+### 🗄️ Database
+- MySQL  
+- MS SQL Server  
+
+### ⚙️ Tools & Platforms
+- Git & GitHub  
+- Postman  
+- Docker  
+- Azure (Basics)  
+
+---
+
+## 📌 Featured Projects
+
+### ✈️ AeroOps – Flight Booking System
+- Java + Spring Boot + Angular  
+- Flight Search, Booking, My Bookings  
+- Admin Flight Management  
+- JWT Authentication  
+
+### 🧾 Invoice Management System
+- .NET MVC  
+- MS SQL Express  
+- Stored Procedures  
+- jQuery DataTables with Pagination & Search  
+
+---
+
+## 📫 Connect With Me
+
 <p align="left">
- 
   <a href="mailto:avadhutp620@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"/>
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/>
   </a>
-  <a href="www.linkedin.com/in/avadhut-patil-123418255" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
-<a href="https://angular.io/guide/what-is-angular" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/512px-Angular_full_color_logo.svg.png" alt="spring" width="40" height="40"/> </a>
+  <a href="https://www.linkedin.com/in/avadhut-patil-123418255" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+⭐ From [Avadhut Patil](https://github.com/YOUR_GITHUB_USERNAME)
